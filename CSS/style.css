@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+}
+
+div {
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-bottom: 40px;
+}
+
+nav a {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+p {
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+ol {
+    margin-left: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+nav li {
+    list-style: none;
+    float: right;
+    margin-right: 50px;
+    padding-bottom: 50px;
+}
